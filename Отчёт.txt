@@ -1,0 +1,9 @@
+G:\Dropbox\Записи\Тетради\4 семестр\Разработка программных приложений>javac *.java & java -cp . Program_Calc_Test
+add: ok
+sub: ok
+mul: ok
+div: ok
+addDouble: ok
+subDuble: ok
+mulDouble: ok
+divDouble: ok
